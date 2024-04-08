@@ -1,0 +1,27 @@
+
+J
+java:S5411f"(Use a primitive boolean expression here.(à §İùÿÿÿÿ8ØÁ«Øë1
+G	java:S106""+Replace this use of System.out by a logger.(„½8êüªØë1
+G	java:S106#"+Replace this use of System.out by a logger.(êÈÕú8êüªØë1
+F	java:S106'"+Replace this use of System.out by a logger.(Úôğf8ñüªØë1
+G	java:S106("+Replace this use of System.out by a logger.(ôêÅ†8ñüªØë1
+L	java:S106)"+Replace this use of System.out by a logger.(ïÂãÎùÿÿÿÿ8óüªØë1
+L	java:S1062"+Replace this use of System.out by a logger.(û¢¿ıÿÿÿÿ8ãÁ«Øë1
+L	java:S1066"+Replace this use of System.out by a logger.(î§é£ùÿÿÿÿ8æÁ«Øë1
+t
+java:S3776;"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(²ÇÉÚúÿÿÿÿ8äÁ«Øë1
+G	java:S106F"+Replace this use of System.out by a logger.(‡„ş8çÁ«Øë1
+G	java:S106P"+Replace this use of System.out by a logger.(ªĞÔÑ8éÁ«Øë1
+L	java:S106b"+Replace this use of System.out by a logger.(ªñıÕùÿÿÿÿ8éÁ«Øë1
+L	java:S106c"+Replace this use of System.out by a logger.(¿¨Û‚ÿÿÿÿÿ8éÁ«Øë1
+G	java:S106d"+Replace this use of System.out by a logger.(ç­Ğı8êÁ«Øë1
+G	java:S106h"+Replace this use of System.out by a logger.(õôÂˆ8ëÁ«Øë1
+G	java:S106k"+Replace this use of System.out by a logger.(ãî›ë8ëÁ«Øë1
+G	java:S106l"+Replace this use of System.out by a logger.(²ú„—8ìÁ«Øë1
+L	java:S106o"+Replace this use of System.out by a logger.(ßâõÓúÿÿÿÿ8ìÁ«Øë1
+I
+java:S1602p",Remove useless curly braces around statement(¡İòˆ8ìÁ«Øë1
+G	java:S106q"+Replace this use of System.out by a logger.(§å€‹8íÁ«Øë1
+>
+java:S1116t"Remove this empty statement.(ôŸìúÿÿÿÿ8ìÁ«Øë1
+L	java:S106y"+Replace this use of System.out by a logger.(²³¤Âøÿÿÿÿ8›âÀşë1
